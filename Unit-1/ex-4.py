@@ -19,7 +19,7 @@ print(f"My name is {name} and I am studying {course}.")
 
 
 print("\n-----Built-in string Functions-----")
-text="Harshi Lucky"
+text="Harshi Priya"
 print(len(text))
 print(text.upper())
 print(text.lower())
