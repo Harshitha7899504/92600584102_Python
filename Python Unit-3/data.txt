@@ -1,0 +1,9 @@
+#10.Write a program to extract specific information from a text file using regular expressions.
+
+Name: Priyatham
+Email: priyatham@gmail.com
+Phone: 8442665260
+
+Name: Priya
+Email: priya@yahoo.com
+Phone: 6308085084
